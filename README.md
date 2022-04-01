@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Nguyen Thanh Tri
 - 👀 I’m interested in mobile, backend and AI programming
 - 🌱 I’m currently working as an iOS developer and developing my self to be a fullstack developer
+- Contact for work: thanhtri7637@gmail.com
